@@ -68,10 +68,6 @@ Ter o **Python 3** instalado.
 python minigame\ jokenpo.py
 ```
 
-> Caso o arquivo principal tenha outro nome, substitua o comando pelo nome correspondente.
-
----
-
 ## 👤 Autor
 
 **Pedro Elton Silva do Nascimento**
